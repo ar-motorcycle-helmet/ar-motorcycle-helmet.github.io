@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -413,12 +415,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header6-1 .mbr-section-title {
-  color: #28262b;
+#msg-box4-9 H3 {
+  font-family: 'Merriweather', serif;
   font-size: 30px;
 }
-#header6-1 .mbr-section-text {
-  color: #565656;
-  font-size: 14px;
-  font-family: 'Roboto Condensed', sans-serif;
+#msg-box4-9 P {
+  font-family: 'Titillium Web', sans-serif;
 }

@@ -19,18 +19,21 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#6af18f"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 2,
+    "uniqCompNum": 10,
     "versionPublish": "4.6.5"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Augmented Reality Motorcycle Helmet",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -38,43 +41,32 @@
       },
       "components": [
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b",
-              "font-size": "30px"
-            },
-            ".mbr-section-text": {
-              "color": "#565656",
-              "font-size": "14px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "showArrow": false,
-            "imageSize": "64",
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "7",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-blur-2000x1333.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -84,19 +76,30 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 250
             }
           },
-          "title": "Augmented Reality Motorcycle Helmet",
-          "text": "Senior Design Project by Reiner Dizon, Angel Solis, &amp; John Dye",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Augmented Reality Motorcycle Helmet<br>",
+          "text": "<p>Senior Design Project by Reiner Dizon, Angel Solis &amp; John Dye</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-1"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9",
+          "_styles": {
+            "H3": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         }
       ]
     }
