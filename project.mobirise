@@ -29,7 +29,8 @@
     "noImageResize": "",
     "versionFirst": "4.6.5",
     "uniqCompNum": 10,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -48,9 +49,9 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "70",
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "7",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-blur-2000x1333.png",
@@ -72,7 +73,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=UxzbvKWp-C8",
+              "src": "https://www.youtube.com/watch?v=O-4LgFBNyRU",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -84,7 +85,7 @@
             }
           },
           "title": "Augmented Reality Motorcycle Helmet<br>",
-          "text": "<p>Senior Design Project by Reiner Dizon, Angel Solis &amp; John Dye</p>",
+          "text": "<p>Spring 2018 Senior Design Project by Reiner Dizon, Angel Solis &amp; John Dye<br><br>Cox Pavilion<br>May 3th 2018, 8am to 5pm<br>Come vote for us!</p>",
           "_tags": [
             "Theme"
           ],
@@ -99,7 +100,8 @@
             },
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center"
             }
           }
         }
