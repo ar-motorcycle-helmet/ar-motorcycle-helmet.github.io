@@ -84,7 +84,7 @@
               "size": 250
             }
           },
-          "title": "Augmented Reality Motorcycle Helmet<br>",
+          "title": "Augmented Reality<br>Motorcycle Helmet<br>",
           "text": "<p>Spring 2018 Senior Design Project by Reiner Dizon, Angel Solis &amp; John Dye<br><br>Cox Pavilion<br>May 3th 2018, 8am to 5pm<br>Come vote for us!</p>",
           "_tags": [
             "Theme"
@@ -96,12 +96,14 @@
             "H3": {
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "center"
             },
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "18px"
             }
           }
         }

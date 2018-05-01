@@ -418,8 +418,10 @@ h6,
 #msg-box4-9 H3 {
   font-family: 'Merriweather', serif;
   font-size: 30px;
+  text-align: center;
 }
 #msg-box4-9 P {
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
+  font-size: 18px;
 }
