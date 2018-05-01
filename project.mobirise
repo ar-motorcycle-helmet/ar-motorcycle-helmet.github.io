@@ -51,7 +51,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "70",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "7",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pcb-blur-2000x1333.png",
