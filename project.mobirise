@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#2969b0",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -28,8 +28,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/pcb-blur-128x85-2.png",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 10,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 11,
+    "versionPublish": "4.7.2",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -76,7 +76,7 @@
               "src": "https://www.youtube.com/watch?v=vwQLFFuwXpA",
               "aspectratio": "16:9",
               "autoplay": "on",
-              "loop": false
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -85,7 +85,7 @@
             }
           },
           "title": "Augmented Reality<br>Motorcycle Helmet<br>",
-          "text": "<p>Spring 2018 Senior Design Project by Reiner Dizon, Angel Solis &amp; John Dye<br><br>Cox Pavilion<br>May 3th 2018, 8am to 5pm<br>Come vote for us!</p>",
+          "text": "<p>Spring 2018 Senior Design Project<br><br><b>Contact Information:<br></b><br><b>Reiner Dizon</b><br><a href=\"mailto:dizonr1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>dizonr1@unlv.nevada.edu</u></a><br><b><br>Angel Solis</b><br><a href=\"mailto:solisa1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>solisa1@unlv.nevada.edu</u></a><br><b><br>John Dye</b><br><a href=\"mailto:dyej1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>dyej1@unlv.nevada.edu</u></a></p>",
           "_tags": [
             "Theme"
           ],
