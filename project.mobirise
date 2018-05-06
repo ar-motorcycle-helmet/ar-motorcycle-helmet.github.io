@@ -28,7 +28,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/pcb-blur-128x85-2.png",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png"
   },
@@ -106,6 +106,26 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2017-2018 - All Rights Reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b"
         }
       ]
     }
