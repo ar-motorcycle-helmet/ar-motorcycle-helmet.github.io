@@ -85,7 +85,7 @@
             }
           },
           "title": "Augmented Reality<br>Motorcycle Helmet<br>",
-          "text": "<p>Spring 2018 Senior Design Project<br><br><b>Contact Information:<br></b><br><b>Reiner Dizon</b><br><a href=\"mailto:dizonr1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>dizonr1@unlv.nevada.edu</u></a><br><b><br>Angel Solis</b><br><a href=\"mailto:solisa1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>solisa1@unlv.nevada.edu</u></a><br><b><br>John Dye</b><br><a href=\"mailto:dyej1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>dyej1@unlv.nevada.edu</u></a></p>",
+          "text": "<p>Spring 2018 Senior Design Project<br><br><b>Contact Information:<br></b><br><b>Reiner Dizon</b><br><u style=\"font-style: normal;\"><a href=\"mailto:dizonr1@unlv.nevada.edu\" style=\"font-style: normal;\">dizonr1@unlv.nevada.edu</a><br></u><a href=\"https://reinerdizon.com/\" target=\"_blank\" style=\"font-style: normal;\"><u>reinerdizon.com</u></a><br><b><br>Angel Solis</b><br><a href=\"mailto:solisa1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>solisa1@unlv.nevada.edu</u></a><br><b><br>John Dye</b><br><a href=\"mailto:dyej1@unlv.nevada.edu\" style=\"font-style: normal;\"><u>dyej1@unlv.nevada.edu</u></a></p>",
           "_tags": [
             "Theme"
           ],
